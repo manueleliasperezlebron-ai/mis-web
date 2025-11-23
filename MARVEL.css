@@ -113,6 +113,13 @@ p {
 .Armas2 {
     font-family: Helvetica;
     font-size: 20px;
+    color: white;
+}
+
+.Armas3 {
+    font-family: Helvetica;
+    font-size: 14px;
+    color: white;
 }
 
 figcaption {
@@ -219,6 +226,11 @@ legend {
 #Iron\ Man:hover~.hover-image-display-3 {
     opacity: 1;
     background-image: url("https://hips.hearstapps.com/hmg-prod/images/iron-man-2008-1626678790.jpeg?crop=0.9389671361502346xw:1xh;center,top&resize=1200:*");
+}
+
+#Capitan\ America:hover~.hover-image-display-3 {
+    opacity: 1;
+    background-image: url("https://i.blogs.es/942126/captain-america-civil-war-chris-evans/840_560.jpeg");
 }
 
 .marvel {
