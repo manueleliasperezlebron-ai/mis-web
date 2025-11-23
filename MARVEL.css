@@ -13,7 +13,7 @@ body {
     padding: 0%;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 864px) {
     body {
         background-attachment: scroll;
         /* Evita problemas con el background en celulares */
