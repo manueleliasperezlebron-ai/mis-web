@@ -5,22 +5,25 @@ html {
 
 body {
     background-image: url(https://images.moviesanywhere.com/metaTag/8510da4d77ae351a78908942e5dec42f.jpeg?r=16x9&w=2560);
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
+    background-color: red;
     margin: 0%;
     padding: 0%;
 }
 
 @media (max-width: 1024px) {
     body {
-        background-size: cover;
+        background-size: contain;
         /* Evita zoom excesivo */
         background-attachment: scroll;
         /* Soluciona el corte en móviles */
         background-position: center top;
         /* Ajusta mejor la visualización */
+        background-color: red;
+        background-repeat: no-repeat;
     }
 }
 
