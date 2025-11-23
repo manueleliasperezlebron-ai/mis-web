@@ -1,0 +1,56 @@
+     h1,
+     h3 {
+         text-align: center;
+     }
+     
+     p {
+         text-align: left;
+     }
+     
+     h2 {
+         text-align: left;
+     }
+     
+     body {
+         background-image: url(https://offloadmedia.feverup.com/valenciasecreta.com/wp-content/uploads/2018/03/13121547/segunda-mano-valencia.jpg);
+     }
+     /*(selector id css):Puedes usar el selector de id para seleccionar un elemento específico con un atributo id. Un selector de id se define colocando el símbolo de almohadilla # delante del valor id del elemento. */
+     
+     .Catalogo {
+         width: 80%;
+         background-color: grey;
+         /*(margin-left y margin right):para centrar horizontalmente */
+         margin-left: auto;
+         margin-right: auto;
+         padding-left: 20px;
+         padding-right: 20px;
+     }
+     
+     h2 {
+         text-align: center;
+     }
+     
+     h1,
+     h2 {
+         font-family: 'Roboto', sans-serif;
+         font-size: 48px;
+     }
+     
+     hr {
+         height: 3px;
+         background-color: azure;
+         border-color: azure;
+     }
+     
+     .mono-courier {
+         font-family: "Courier New", Courier, monospace;
+         text-align: center;
+     }
+     
+     .sans-arial {
+         font-family: Helvetica, Arial, sans-serif;
+     }
+     
+     .fantasy-copperplate {
+         font-family: Copperplate, fantasy;
+     }
