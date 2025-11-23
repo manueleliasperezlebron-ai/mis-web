@@ -71,11 +71,8 @@ body {
 .coment {
     font-family: Arial, Verdana;
     font-size: 30px;
-    color: white;
+    color: black;
 }
-
-
-/* 📸 NUEVO ESTILO: Contenedor para mostrar la imagen al hacer clic */
 
 #imagen-personaje {
     width: 350px;
